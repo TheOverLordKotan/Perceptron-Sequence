@@ -1,0 +1,22 @@
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.deps.json
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.runtimeconfig.json
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.runtimeconfig.dev.json
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.dll
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.pdb
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.csprojAssemblyReference.cache
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.csproj.CoreCompileInputs.cache
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.AssemblyInfoInputs.cache
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.AssemblyInfo.cs
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.dll
+C:\Users\ingenieria\source\repos\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.pdb
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.deps.json
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.runtimeconfig.json
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.runtimeconfig.dev.json
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.dll
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\bin\Debug\netcoreapp2.1\PerceptronSequence.pdb
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.AssemblyInfo.cs
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.dll
+C:\Users\user\Desktop\Nueva carpeta (3)\PerceptronSequence\PerceptronSequence\obj\Debug\netcoreapp2.1\PerceptronSequence.pdb
